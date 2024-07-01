@@ -1,0 +1,119 @@
+.border {
+    margin-top: 200px;
+    border-bottom: 1px solid var(--light-grey-color);
+}
+
+.footer_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-top: 50px;
+    }
+}
+
+.rights {
+    height: auto;
+    width: 90%;
+
+    @media (max-width: 768px) {
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.rights p {
+    color: var(--dark-color);
+    font-weight: 200;
+    width: 90%;
+    font-size: 0.9rem;
+
+    @media (max-width: 768px) {
+        text-align: center;
+        font-size: 0.9rem;
+    }
+}
+
+.links_container {
+    margin-top: 10px;
+    line-height: 0.4;
+
+    @media (max-width: 768px) {
+        text-align: center;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+}
+
+.links_container p {
+    margin-bottom: 15px; 
+}
+
+.rights a {
+    color: var(--main-color-contacts);
+    transition: 0.3s;
+}
+
+.rights a:hover {
+    color: var(--main-color-hover-contacts);
+}
+
+.link {
+    text-decoration: none;
+}
+
+.contacts {
+    width: 45%;
+
+    @media (max-width: 768px) {
+        width: 90%;
+    }
+}
+
+.contacts > div p {
+    color: var(--dark-color);
+    font-weight: 200;
+    font-size: 0.9rem;
+
+    @media (max-width: 768px) {
+        text-align: center;
+        font-size: 0.9rem;
+    }
+}
+
+.adress, .email, .phone {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    margin-top: 5px;
+
+    @media (max-width: 768px) {
+        align-items: center;
+    }
+}
+
+.adress p, .email p, .phone p {
+    margin-bottom: 5px;
+}
+
+.email p a {
+    color: var(--main-color-contacts);
+    transition: 0.3s;
+}
+
+.email p a:hover {
+    color: var(--main-color-hover-contacts);
+}

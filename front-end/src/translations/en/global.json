@@ -1,0 +1,330 @@
+{
+    "header": {
+        "navbar": {
+            "home": "Home",
+            "about": "About",
+            "products": "Products",
+            "contacts": "Contacts"
+        }
+    },
+
+    "pages": {
+        "home_page": {
+            "caviar": {
+                "caviar_1": {
+                    "name": "Kamchatka Pink salmon",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness."
+                },
+                "caviar_2": {
+                    "name": "Kamchatka Chum salmon",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor."
+                }, 
+                "caviar_3": {
+                    "name": "Kamchatka Sockeye salmon",
+                    "description": "Caviar of Kamchatka Sockeye salmon is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth."
+                }
+            },
+            "message": "Only 4 hours from the time of catch to the time of canning",
+            "company": "East Cost"
+        },
+        "products_page": {
+            "company": "East Cost",
+            "best_prices": "Best Prices",
+            "menu": "Menu",
+            "prices": "Prices",
+            "net_weight": "Net weight",
+            "pricelist": "Price-list",
+            "instruments": {
+                "search": "Search"
+            },
+            "products_categories": {
+                "seafood": "Seafood"
+            },
+            "products_names": {
+                "shrimps": "Shrimps",
+                "crab": "Crab",
+                "caviar": "Caviar"
+            },
+            "products_info": {
+                "a62d7559-bddd-4a6f-8f38-5b0746cb1f6b": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "bbb76801-9b64-4bc4-a679-edf99a20f2a1": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "49644d5a-02c9-4de0-88c3-38c7940d7b6f": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "080c3e6e-1b8b-4498-af79-2c594124edd5": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+    
+    
+                "afa3894c-3b40-4d76-9118-813575478f57": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "363f7441-53c4-4f36-a6e5-5aa8b818bf30": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "b20a61f1-9e06-47d5-993b-c075b899bd76": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "9ae4608d-2539-48fb-9d57-29743b4ce42d": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                
+    
+                "ac99bc38-32b2-4d4e-9442-07a4a4917129": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Sockeye salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Seal roe is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "c7c40616-778b-4811-8681-e33431422088": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Sockeye salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Caviar of Sockeye salmon is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                }
+            },
+            "errors": {
+                "error_msg": "Something went wrong...",
+                "empty": "No products available."
+            }
+        },
+        "item_page": {
+            "back": "Go back",
+            "description": "Description",
+            "composition": "Composition",
+            "food_value": "Food value",
+            "supplements": "Supplements",
+            "vitamins": "Vitamins",
+            "energy_value": "Energy value",
+            "country": "Сountry of manufacture",
+            "shelf_life": "Shelf life",
+            "recommendation": "Recommendation",
+            "expiration_date": "Expiration date",
+            "net_weight": "Net weight",
+            "price": "Price"
+        },
+        "contacts_page": {
+            "header": "Let's keep in touch",
+            "sub_header": "Or reach us via:",
+            "name": "Name",
+            "surname": "Surname",
+            "contact_phone": "Phone",
+            "email": "Email",
+            "message": "Message",
+            "policy": "Policy on personal data processing",
+            "privacy": "By clicking on the button, you consent to the processing of personal data, in accordance with No. 99-З “On Personal Data Protection” of the Republic of Belarus, under the conditions and for the purposes defined in the",
+            "errors": {
+                "error": "Error!",
+                "error_message": {
+                    "text_one": "This email already exists in the client base",
+                    "text_two": "Something went wrong, check your internet connection",
+                    "text_three": "Please, enter ReCaptcha"
+                }
+            }
+        },
+        "confirmation_page": {
+            "message": "Thank you, you have been verified",
+            "error": "Something wend wrong"
+        },
+        "not_found_page": {
+            "message": "Page Not Found"
+        },
+        "policy_privacy_page": {
+            "header": "Policy on personal data processing",
+            "text": {
+                
+            }
+        },
+        "website_policy_page": {
+            "header": "Terms of use of the Site"
+        },
+        "cookie_policy_page": {
+            "header": "Cookie Policy",
+            "text_1": "Cookies is a text string of information that a web server sends to the browser of your device (computer, laptop, smartphone, tablet), which is then stored there. Our site uses cookies and similar technologies to ensure the best user experience by providing personalized information, remembering marketing and product preferences, and helping you get the right information.",
+            "text_2": "By using this site, you consent to the use of cookies in accordance with this notice in relation to this type of cookie. If you do not agree to our use of this type of cookie, you must adjust your browser settings accordingly or not use this site."
+        }
+    },
+
+    "components": {
+        "card_item": {
+            "loading": "Loading...",
+            "updated": "Last updated",
+            "minute": "minute ago",
+            "minutes": "minutes ago"
+        },
+        "cart": {
+            "cart": "Cart",
+            "empty": "Your cart is empty.",
+            "title": "My order",
+            "category": "Category",
+            "product": "Product",
+            "name": "Name",
+            "quantity": "Quantity",
+            "net_weight": "Net weight",
+            "price": "Price",
+            "form": "Form",
+            "total": "Total",
+            "print": "Print",
+            "warning": "Warning: Not paid orders will be automatically deleted in 2 weeks."
+        }
+    },
+
+    "footer": {
+        "rules": {
+            "one": "Policy on personal data processing",
+            "two": "Terms of use of the Site",
+            "three": "Cookie policy",
+            "four": "Consent has been obtained from personal data subjects to process personal data authorized for dissemination. Restriction on copying of personal photos and other personal data has been established"
+        },
+        "address": "Address",
+        "email": "Email",
+        "phone": "Phone"
+    },
+
+    "messages": {
+        "error": "Error!",
+        "loading": "Loading...",
+        "thank_you": "Thank You!",
+        "success": "Success!",
+        "success_msg": "We have send to you confirmation mail. We will contact you soon.",
+        "download_success_msg": "Thank you for downloading the price-list",
+        "error_msg": "Something went wrong. Try it later."
+    },
+
+    "buttons": {
+        "detailed": "More details",
+        "back": "Go back",
+        "send": "Send",
+        "add": "Add to cart",
+        "clear": "Clear",
+        "checkout": "Checkout"
+    }
+}

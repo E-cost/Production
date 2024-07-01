@@ -1,0 +1,11 @@
+.git
+
+./front-end/node_modules
+./front-end/npm-debug.log
+
+logo.png
+E-cost.drawio.pdf
+E-cost.drawio.png
+
+
+README.md
