@@ -416,7 +416,131 @@
             }
         },
         "website_policy_page": {
-            "header": "Terms of use of the Site"
+            "header": "Terms of use of the Site",
+                "text": {
+                "p1": {
+                    "header": "General Provisions",
+                    "p1_1": "These rules of use of the site (hereinafter - the Rules) are developed by the Site Administration, are an agreement between the Site Administration and the User, determine the terms of use of the site, as well as the rights and obligations of Users and the Site Administration.",
+                    "p1_2": "All information provided on https://e-coast.by is for information purposes only and does not constitute a public offer. Information on the technical characteristics of the products listed on the website may be changed unilaterally by the manufacturer. Images of goods presented on the site may differ from the originals. Information about the price, availability and delivery time of the goods specified on the site may differ from the actual at the time of placing an order for the goods.",
+                    "p1_3": "These Rules may be unilaterally changed by the Website Administration without notifying Users and shall come into force from the moment of their publication. In such case, the changes made shall be deemed accepted by the User at the first use of the site after making such changes.",
+                    "p1_3_text": {
+                        "text_1": "The current version is always located on this page.",
+                        "text_2": "In order to avoid disputes regarding their modification, the Site Administrator recommends that you periodically familiarize yourself with the contents of the Rules located on this page.",
+                        "text_3": "In case of disagreement of the User with these Rules or their updates, the User must refuse to use the site, informing its Administration in the prescribed manner."
+                    },
+                    "p1_4": "The current version of these Rules is available on the website: https://e-coast.by/."
+                },
+                "p2": {
+                    "header": "Terms and definitions",
+                    "p2_text": {
+                        "text_1": "The following terms shall be used in these Rules:",
+                        "text_2": "Site Administration - authorized employees to manage the Site, acting on behalf of Vostochny Bereg LLC (East Cost).",
+                        "text_3": "User - a natural person who has proper legal capacity in accordance with the current legislation of the Republic of Belarus to perform conclusive actions and uses the site.",
+                        "text_4": "User's personal data - any information relating to a directly or indirectly defined or identifiable natural person (subject of personal data), which is the User.",
+                        "text_5": "Website is the website of the organization Vostochny Bereg LLC located at the domain name https://e-coast.by/"
+                    }
+                },
+                "p3": {
+                    "header": "Use of the site",
+                    "p3_1": "The use of the site is voluntary and free of charge. From the moment the User and the Site Administration start using the site, the User and the Site Administration acquire mutual rights and obligations related to the use and functioning of the site. Using the site, the User agrees to show respect to the Site Administration and to all other Users of the site.",
+                    "p3_2": "On the various pages of the website, the User can enter the data established by the proposed feedback forms. He/she performs these actions voluntarily and in his/her own interests. By entering data on the site, the User expresses consent to the provisions of these Rules in accordance with Article 438 of the Civil Code of the Republic of Belarus.",
+                    "p3_3": "The administration of the Site does not check the reliability of the information specified by the subject, as well as his legal capacity, based on the rule of law that the good faith of participants of civil legal relations and reasonableness of their actions are assumed.",
+                    "p3_4": "The Site Administrator has the right to unilaterally restrict the User's access to the Site if he/she reasonably believes that the User is engaged in unlawful activities."
+                },
+                "p4": {
+                    "header": "Processing of User's personal data",
+                    "p4_1": "Processing of personal data of Users is carried out in accordance with the legislation of the Republic of Belarus.",
+                    "p4_2": "The User gives its consent to the Administration of the Site to:",
+                    "p4_2_text": {
+                        "text_1": "use of cookies, in accordance with the Cookie Policy available at https://e-coast.by/cookie_policy.",
+                        "text_2": "processing of your personal data indicated on the Website in accordance with the Personal Data Processing Policy available at https://e-coast.ru/privacy_policy."
+                    },
+                    "p4_3": "The personal data of Users that they enter on the website is processed for the purposes of:",
+                    "p4_3_text": {
+                        "text_1": "rendering the services agreed upon on the website;",
+                        "text_2": "functioning of various services of the site;",
+                        "text_3": "receiving and storing requests and messages from Users;",
+                        "text_4": "informing Users about the activities of the Website Administration;",
+                        "text_5": "formation of a database on the Users of the site;",
+                        "text_6": "rendering other services within the framework of the Website Administration activity;",
+                        "text_7": "fulfillment by the Website Administration of the functions and duties established by the legislation."
+                    },
+                    "p4_4": "Remaining fully responsible for the actions of third parties, the Site Administration has the right to involve them in the fulfillment of their obligations within the framework of activities and provision of services specified on the site, including, if required and only within the framework of these Rules, to transfer to them the personal data of Users to the extent necessary for the execution of the contract.",
+                    "p4_5": "The Site Administration has the right to send to the User information about the site activity, including advertising information, if the User agrees. The User has the right to refuse such mailing at any time by sending a written application to the address of the Website Administration specified in the Contacts section.",
+                    "p4_6": "In order to ensure the security and confidentiality of personal data, the Website Administration takes necessary and sufficient legal, organizational and technical measures in accordance with the legislation.",
+                    "p4_7": "The term of personal data processing is limited by achievement of a specific purpose. In particular, the Website Administration stores and uses personal data of Users for an indefinite period of time in order to form a history of relations with the User and a database of Users, as well as to control the functioning of the site. The period of personal data processing may be reduced at the request of the User, who may send to the Website Administration an application for termination of processing of his/her personal data. Such application should be sent to the Website Administration in the feedback form in the Contact Us section - https://e-coast.by/contacts"
+                },
+                "p5": {
+                    "header": "Rights and obligations of the User",
+                    "p5_1": "The use of the site is carried out in accordance with these Rules. The user is responsible for any information posted on the site.",
+                    "p5_2": "When using the website, the User is obliged to:",
+                    "p5_text": {
+                        "text_1": "comply with the provisions of the current legislation of the Republic of Belarus, these Rules and other special documents of the Website Administration;",
+                        "text_2": "Provide reliable, complete and up-to-date data, and ensure that it is kept up-to-date;",
+                        "text_3": "not to place on the site information and objects (including links to them) that may violate the rights and interests of others;",
+                        "text_4": "before placing information and objects (including, but not limited to, images of other persons, other people's texts of various contents), assess the legality of their placement beforehand."
+                    },
+                    "p5_3": "If there are doubts about the legality of any actions, including posting information or providing access, the Site Administration recommends to refrain from performing the latter.",
+                    "p5_4": "The user is prohibited from using the site:",
+                    "p5_4_1": "Posting information that:",
+                    "p5_4_1_text": {
+                        "text_1": "is illegal, harmful, vulgar or obscene, defamatory, contains foul language, violates intellectual property rights;",
+                        "text_2": "propagandizes fascism, ideology of racial superiority, hatred and/or discrimination of people on racial, ethnic, religious, social, sexual grounds, contains elements of pornography, child erotica, or propagandizes them, advertises intimate services, explains the procedure for the manufacture and use of drugs, explosives or weapons;",
+                        "text_3": "contains threats, discredits, insults, defames honor, dignity, business reputation or violates the privacy of other Users or third parties;",
+                        "text_4": "violates the rights of minors;",
+                        "text_5": "contains scenes of violence or inhumane treatment of animals;",
+                        "text_6": "contains a description of the means and methods of suicide, any incitement to commit suicide;",
+                        "text_7": "contains extremist material;",
+                        "text_8": "promotes criminal activity or contains advice, instructions or guidance for committing criminal acts, contains restricted information, including, but not limited to, state and commercial secrets, information on the private life of third parties;",
+                        "text_9": "contains advertising or describes the appeal of using drugs, including \"digital drugs\" (sound files that affect the human brain through binaural rhythms), information on the distribution of drugs, recipes for their manufacture and tips for use;",
+                        "text_10": "is fraudulent in nature;",
+                        "text_11": "as well as violates other rights and interests of citizens and legal entities or requirements of the legislation of the Republic of Belarus."
+                    },
+                    "p5_4_3": "It is unlawful to upload, store, publish, distribute, disseminate and access or otherwise use the intellectual property of Users and third parties;",
+                    "p5_4_4": "Use software and perform actions aimed at disrupting the normal functioning of the site and its services or the personal pages of Users;",
+                    "p5_4_5": "Download, store, publish, distribute, share and provide access to or otherwise make use of viruses and other malicious programs;",
+                    "p5_4_6": "Reproduce, duplicate, copy, sell, trade and resell services for any purpose, unless such actions have been expressly authorized to the User in accordance with the terms of a separate agreement with the Site Administration;",
+                    "p5_4_7": "To place any other information, which, in the opinion of the Site Administration, is undesirable, does not correspond to the purposes of creation of the site, infringes on the interests of Users or for other reasons is undesirable for placement on the site.",
+                    "p5_5": "The User is responsible for any information he/she posts on the site, communicates to other Users, and for any interactions with other Users at his/her own risk.",
+                    "p5_6": "The User is responsible for the accuracy, relevance, completeness, compliance of the entered data with the legislation of the Republic of Belarus, as well as for violation of the rights of third parties."
+                },
+                "p6": {
+                    "header": "Exclusive rights to the Electronic Content posted on the Site.",
+                    "p6_1": "All objects (Electronic Content) placed on the site, including design elements, text, graphic images, illustrations, videos, scripts, programs, music, sounds and other objects and their collections (hereinafter - Content), are objects of exclusive rights of the Site Administration, and other right holders, all rights to these objects are protected.",
+                    "p6_2": "Except as provided by these Rules and the laws of the Republic of Belarus, no Content may be copied (reproduced), processed, distributed, framed, published, downloaded, transmitted, sold or otherwise used in whole or in part without the prior permission of the right holder, unless the right holder has expressly agreed to the free use of the Content by any person.",
+                    "p6_3": "Administration of the Site, placing on the site the Content belonging to it on legal grounds, gives to Users the non-exclusive right to use it by viewing, reproduction (including copying), processing (including printing of copies) and other rights exclusively for the purpose of personal non-commercial use, except for cases when such use causes or may cause harm to the protected legal interests of the right holder.",
+                    "p6_4": "The User's use of Content accessed solely for personal, non-commercial use is permitted provided that all copyright marks (copyrights) or other notices of authorship are retained, the author's name is kept intact, and the work is kept intact.",
+                    "p6_5": "Any use of the Site or Content other than as permitted in these Terms or where the copyright holder expressly consents to such use, without the prior written permission of the copyright holder, is expressly prohibited.",
+                    "p6_6": "Unless otherwise expressly set forth in these Terms, nothing in these Terms shall be construed as a transfer of exclusive rights to the Content.",
+                    "p6_7": "The User is personally responsible for any Content or other information that he uploads or otherwise makes publicly available (publishes) on or through the site. The User is not entitled to upload, transmit or publish Content on the site if he/she does not have the appropriate rights to perform such actions acquired or transferred to him/her in accordance with the legislation of the Republic of Belarus.",
+                    "p6_8": "The Website Administration may, but is not obliged to, review the Website for the presence of prohibited Content and may remove or move (without warning) any Content or Users at its discretion, for any reason or no reason, including without any limitation moving or removing Content that, in the opinion of the Website Administration, violates these Rules, the legislation of the Republic of Belarus and/or may violate the rights, harm or threaten the safety of other Users or third parties.",
+                    "p6_9": "By posting its Content on the Site, the User transfers to the Site Administration the right to make copies of its Content in order to organize and facilitate the publication and storage of User Content on the Site.",
+                    "p6_10": "By placing its Content in any part of the site, the User automatically grants to the Site Administration, free of charge, a non-exclusive right to use it by copying, public performance, reproduction, processing, translation and distribution for the purposes of the site or in connection with them, including for its popularization. For the specified purposes the Website Administration may produce derivative works or insert the User's Content as constituent parts in the corresponding collections, perform other actions serving the achievement of the specified purposes.",
+                    "p6_11": "If the User removes his/her Content from the Site, the rights mentioned in clauses 6.9, 6.10 of the Rules will be automatically revoked, however, the Site Administration has the right to keep archived copies of the User's Content for an indefinite period of time."
+                },
+                "p7": {
+                    "header": "Third Party Sites and Content",
+                    "p7_1": "The Site contains (or may contain) links to other sites on the Internet (third party sites) as well as articles, photographs, illustrations, graphics, music, sounds, videos, information, applications, programs and other Content owned by or originating from third parties (Third Party Content), which is the result of intellectual activity and protected in accordance with the laws of the Republic of Belarus.",
+                    "p7_2": "The specified third parties and their Content are not checked by the Site Administration for compliance with any requirements (reliability, completeness, integrity, etc.). The Site Administration shall not be responsible for any information posted on third party sites to which the User gains access through the site or through the Content of third parties.",
+                    "p7_3": "Links or guides to downloading files and (or) installing third-party programs placed on the site do not imply endorsement or approval of these actions by the Site Administration.",
+                    "p7_4": "A link to any site, product, service, any information of commercial or non-commercial nature placed on the site does not constitute an endorsement or recommendation of these products (services) by the Site Administration.",
+                    "p7_5": "If the User decides to leave the Site and go to third-party sites or use or install third-party programs, he/she does so at his/her own risk and from that moment on, these Rules no longer apply to the User. In further actions, the User should be guided by the applicable rules and policies, including the business practices of those persons whose content he/she intends to use."
+                },
+                "p8": {
+                    "header": "Final provisions",
+                    "p8_1": "These Rules are an agreement between the User and the Website Administration regarding the order of using the site and its services and replace all previous agreements between the User and the Website Administration;",
+                    "p8_2": "These Rules shall be regulated and interpreted in accordance with the legislation of the Republic of Belarus. Issues not regulated by the Rules shall be resolved in accordance with the legislation of the Republic of Belarus.",
+                    "p8_3": "In case of any disputes or disagreements related to the execution of these Rules, the User and the Website Administration will make every effort to resolve them through negotiations between them. In case the disputes are not resolved by negotiations, the claim procedure shall be observed. The term of response to the claim is 10 calendar days. The claim should be sent in writing to the Website Administration. In case of failure to reach an agreement, disputes shall be resolved in a judicial procedure established by the legislation of the Republic of Belarus."
+                },
+                "p9": {
+                    "header": "Information about Vostochny Bereg LLC (East Cost)",
+                    "p9_text": {
+                        "text_1": "Legal address: 688713 Kamchatka Territory, Karaginsky district, village Ivashka, Beregovaya str. 2",
+                        "text_2": "TIN 8203002223",
+                        "text_3": "OGRN 1024101419253"
+                    }
+                }
+            }
         },
         "cookie_policy_page": {
             "header": "Cookie Policy",
