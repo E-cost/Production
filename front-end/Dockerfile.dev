@@ -1,0 +1,16 @@
+FROM node:18.19.0-alpine as runner
+
+WORKDIR /app
+
+RUN apk add --no-cache python3 make g++
+
+COPY ./package.json ./
+COPY ./package-lock.json ./
+
+ENV PYTHON=python3
+
+RUN npm ci
+
+COPY . .
+
+CMD ["npm", "run", "start"]

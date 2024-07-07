@@ -1,0 +1,484 @@
+{
+    "header": {
+        "navbar": {
+            "home": "Home",
+            "about": "About",
+            "products": "Products",
+            "contacts": "Contacts"
+        }
+    },
+
+    "pages": {
+        "home_page": {
+            "caviar": {
+                "caviar_1": {
+                    "name": "Kamchatka Pink salmon",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness."
+                },
+                "caviar_2": {
+                    "name": "Kamchatka Chum salmon",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor."
+                }, 
+                "caviar_3": {
+                    "name": "Kamchatka Sockeye salmon",
+                    "description": "Caviar of Kamchatka Sockeye salmon is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth."
+                }
+            },
+            "message": "Only 4 hours from the time of catch to the time of canning",
+            "company": "East Cost"
+        },
+        "products_page": {
+            "company": "East Cost",
+            "best_prices": "Best Prices",
+            "menu": "Menu",
+            "prices": "Prices",
+            "net_weight": "Net weight",
+            "pricelist": "Price-list",
+            "instruments": {
+                "search": "Search"
+            },
+            "products_categories": {
+                "seafood": "Seafood"
+            },
+            "products_names": {
+                "shrimps": "Shrimps",
+                "crab": "Crab",
+                "caviar": "Caviar"
+            },
+            "products_info": {
+                "25f3be4c-7776-4c80-8ed0-3d3a8e994394": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "0b557ce7-002b-4353-8535-a8a7ece87a25": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "d18ed5cc-f980-4805-8791-adf8ed464721": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "f10785c4-4b40-48ce-92a8-37d992e16cfa": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Pink salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Kamchatka Pink salmon - is the most common member of the salmon family, which is why its caviar is the most popular and familiar to most people. It has a truly classic flavor, with a slight tinge of bitterness.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+    
+    
+                "f8442345-775f-4616-a1e4-92038bc8f28a": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "cd347526-6f27-4400-99f0-82073a789864": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "7010d610-9fd0-4999-b6df-c1f467714560": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "004a5f78-e84c-4da8-8978-9ae069210eda": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Chum salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "A real delicacy, which is highly valued among other species, in size second only to chinook salmon caviar, listed in the Red Book. It is not for nothing that chum salmon caviar is called royal caviar for its amber luster, large grains and delicate creamy flavor.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                
+    
+                "d8bd21aa-a9c4-4770-91e7-6f3d0b0513aa": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Sockeye salmon fresh-frozen, supplements free",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "125g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "-",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Seal roe is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                },
+                "dfc159a1-10a5-4e24-a164-dd6f4f3566ee": {
+                    "category": "Seafood",
+                    "product": "Caviar",
+                    "name": "Kamchatka Sockeye salmon salted",
+                    "country_id": "Russia, Kamchatka",
+                    "net_weight": "240g",
+                    "composition": "Caviar (grain) of Far Eastern salmon fish, table salt, food glycerin, refined sunflower oil.",
+                    "food_value": "100g product (average): protein - 32g, fat - 15g",
+                    "supplements": "Food glycerin E422; preservatives: E211, E200.",
+                    "vitamins": "B1 - 0.2mg, B2 - 0.11mg, PP - 1.2mg",
+                    "energy_value": "263 kcal/1099kJ",
+                    "description": "Caviar of Sockeye salmon is the most scarce of all species, it has intense flavor colors, with a pronounced tinge of bitterness, yet it is so delicate that it literally melts in your mouth.",
+                    "recommendation": "It is recommended to defrost the caviar at 4°C to 15°C before consumption.",
+                    "shelf_life": "After opening the package it is possible to store the product for a short period of time (not more than 36 hours) at temperatures from 0 to 6°C in a domestic refrigerator. Store at a temperature not exceeding minus 18°C. Packed under vacuum.",
+                    "expiration_date": "12 months from the date of manufacture."
+                }
+            },
+            "errors": {
+                "error_msg": "Something went wrong...",
+                "empty": "No products available."
+            }
+        },
+        "item_page": {
+            "back": "Go back",
+            "description": "Description",
+            "composition": "Composition",
+            "food_value": "Food value",
+            "supplements": "Supplements",
+            "vitamins": "Vitamins",
+            "energy_value": "Energy value",
+            "country": "Сountry of manufacture",
+            "shelf_life": "Shelf life",
+            "recommendation": "Recommendation",
+            "expiration_date": "Expiration date",
+            "net_weight": "Net weight",
+            "price": "Price"
+        },
+        "contacts_page": {
+            "header": "Let's keep in touch",
+            "sub_header": "Or reach us via:",
+            "name": "Name",
+            "surname": "Surname",
+            "contact_phone": "Phone",
+            "email": "Email",
+            "message": "Message",
+            "policy": "Policy on personal data processing",
+            "privacy": "By clicking on the button, you consent to the processing of personal data, in accordance with No. 99-З “On Personal Data Protection” of the Republic of Belarus, under the conditions and for the purposes defined in the",
+            "errors": {
+                "error": "Error!",
+                "error_message": {
+                    "text_one": "This email already exists in the client base",
+                    "text_two": "Something went wrong, check your internet connection",
+                    "text_three": "Please, enter ReCaptcha"
+                }
+            }
+        },
+        "confirmation_page": {
+            "message": "Thank you, you have been verified",
+            "error": "Something wend wrong"
+        },
+        "not_found_page": {
+            "message": "Page Not Found"
+        },
+        "policy_privacy_page": {
+            "header": "Policy on personal data processing",
+            "text": {
+                "p1": {
+                    "p1_header": "General provisions",
+                    "p1_text": "The present policy of personal data processing is drawn up in accordance with the requirements of the Federal Law No. 99-З \"On personal data protection\" of the Republic of Belarus (hereinafter referred to as the Law on personal data protection) and determines the procedure of personal data processing and measures to ensure personal data security undertaken by \"East Cost\" LLC (hereinafter referred to as the Operator).",
+                    "p1_1": "The Operator sets as its most important goal and condition of its activity the observance of human and citizen's rights and freedoms during processing of personal data, including the protection of the rights to privacy, personal and family secrecy.",
+                    "p1_2": "This Operator's policy on personal data processing (hereinafter referred to as the Policy) applies to all information that the Operator may obtain about the visitors of the website https://e-coast.by."
+                },
+                "p2": {
+                    "p2_header": "Basic concepts used in the Policy",
+                    "p2_1": "Automated processing of personal data - processing of personal data by means of computer equipment.",
+                    "p2_2": "Blocking of personal data - temporary cessation of personal data processing (except for cases when processing is necessary to clarify personal data).",
+                    "p2_3": "Website - a set of graphic and informational materials, as well as computer programs and databases, ensuring their accessibility on the Internet at the network address https://e-coast.by.",
+                    "p2_4": "Personal data information system - a set of personal data contained in databases and information technologies and technical means ensuring their processing.",
+                    "p2_5": "Personal data depersonalization - actions as a result of which it is impossible to determine without using additional information whether personal data belong to a particular User or other subject of personal data.",
+                    "p2_6": "Processing of personal data - any action (operation) or set of actions (operations) performed with the use of automation means or without the use of such means with personal data, including collection, recording, systematization, accumulation, storage, clarification (update, change), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data.",
+                    "p2_7": "Operator - a state authority, municipal authority, legal entity or individual, independently or jointly with other persons organizing and (or) carrying out processing of personal data, as well as determining the purposes of personal data processing, composition of personal data subject to processing, actions (operations) performed with personal data.",
+                    "p2_8": "Personal Data - any information relating directly or indirectly to a specific or identifiable User of https://e-coast.by.",
+                    "p2_9": "Personal data authorized by the subject of personal data for dissemination - personal data to which access to an unlimited number of persons is granted by the subject of personal data by giving consent to the processing of personal data authorized by the subject of personal data for dissemination in the manner prescribed by the Personal Data Law (hereinafter - personal data authorized for dissemination).",
+                    "p2_10": "User - any visitor of the website https://e-coast.by.",
+                    "p2_11": "Provision of personal data - actions aimed at disclosure of personal data to a certain person or a certain circle of persons.",
+                    "p2_12": "Dissemination of personal data - any actions aimed at disclosure of personal data to an indefinite number of persons (transfer of personal data) or familiarization of personal data to an unlimited number of persons, including disclosure of personal data in mass media, placement in information and telecommunication networks or providing access to personal data in any other way.",
+                    "p2_13": "Cross-border transfer of personal data - transfer of personal data to the territory of a foreign country to a foreign government authority, a foreign individual or a foreign legal entity.",
+                    "p2_14": "Destruction of personal data - any actions, as a result of which personal data are irretrievably destroyed with the impossibility of further recovery of the content of personal data in the personal data information system and (or) material carriers of personal data are destroyed."
+                },
+                "p3": {
+                    "p3_header": "Basic rights and obligations of the Operator",
+                    "p3_1": {
+                        "p3_1_header": "The Operator has the right to:",
+                        "t_1": "to receive from the subject of personal data reliable information and/or documents containing personal data;",
+                        "t_2": "in case the personal data subject revokes his/her consent to personal data processing, the Operator has the right to continue personal data processing without the consent of the personal data subject if there are grounds specified in the Personal Data Law;",
+                        "t_3": "independently determine the composition and list of measures necessary and sufficient to ensure the fulfillment of obligations stipulated by the Personal Data Law and regulatory legal acts adopted in accordance with it, unless otherwise provided by the Personal Data Law or other federal laws."
+                    },
+                    "p3_2": {
+                        "p3_2_header": "The Operator is obliged to:",
+                        "t_1": "provide the subject of personal data, upon his/her request, with information regarding the processing of his/her personal data;",
+                        "t_2": "organize the processing of personal data in accordance with the procedure established by the current legislation of the Republic of Belarus;",
+                        "t_3": "respond to appeals and requests of personal data subjects and their legal representatives in accordance with the requirements of the Law on Personal Data;",
+                        "t_4": "report to the authorized body for the protection of the rights of personal data subjects at the request of this body the necessary information within 30 days from the date of receipt of such a request;",
+                        "t_5": "publish or otherwise provide unrestricted access to this Policy on personal data processing;",
+                        "t_6": "take legal, organizational and technical measures to protect personal data from unlawful or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other unlawful actions with regard to personal data;",
+                        "t_7": "cease transfer (dissemination, provision, access) of personal data, stop processing and destroy personal data in the manner and cases stipulated by the Personal Data Law;",
+                        "t_8": "fulfill other obligations stipulated by the Personal Data Law."
+                    }
+                },
+                "p4": {
+                    "p4_header": "Basic rights and obligations of personal data subjects",
+                    "p4_1": {
+                        "p4_1_header": "Personal data subjects have the right to:",
+                        "t_1": "to receive information regarding the processing of his/her personal data, except in cases provided for by federal laws. Information shall be provided to the subject of personal data by the Operator in an accessible form and shall not contain personal data relating to other subjects of personal data, except in cases where there are legal grounds for disclosure of such personal data. The list of information and the procedure for obtaining it is established by the Law on Personal Data;",
+                        "t_2": "demand from the operator to clarify his personal data, block or destroy it in case the personal data is incomplete, outdated, inaccurate, illegally obtained or not necessary for the stated purpose of processing, as well as to take measures provided by law to protect his rights;",
+                        "t_3": "to impose a condition of prior consent when processing personal data in order to market goods, works and services;",
+                        "t_4": "to revoke the consent to the processing of personal data;",
+                        "t_5": "to appeal to the authorized body for the protection of the rights of personal data subjects or in court against unlawful acts or omissions of the Operator in the processing of his/her personal data;",
+                        "t_6": "to exercise other rights provided for by the legislation of the Republic of Belarus."
+                    },
+                    "p4_2": {
+                        "p4_2_header": "Personal data subjects are obliged to:",
+                        "t_1": "provide the Operator with reliable data about themselves;",
+                        "t_2": "notify the Operator about clarification (update, change) of their personal data."
+                    },
+                    "p4_3": "Persons who have provided the Operator with inaccurate information about themselves or information about another subject of personal data without the consent of the latter shall be held liable in accordance with the legislation of the Republic of Belarus."
+                },
+                "p5": {
+                    "p5_header": "The Operator may process the following personal data of the User",
+                    "p5_1": "Surname, first name.",
+                    "p5_2": "E-mail address.",
+                    "p5_3": "Telephone numbers.",
+                    "p5_4": "The site also collects and processes anonymized data about visitors (including cookies, network headers).",
+                    "p5_5": "The aforementioned data are hereinafter in the text of the Policy united by the general term Personal Data.",
+                    "p5_6": "The Operator does not process special categories of personal data concerning race, nationality, political views, religious or philosophical beliefs, intimate life.",
+                    "p5_7": "Processing of personal data authorized for dissemination from among the special categories of personal data specified in Article 10.1 of the Personal Data Law is allowed if the prohibitions and conditions stipulated in Article 10.1 of the Personal Data Law are observed.",
+                    "p5_8": "The User's consent to the processing of personal data authorized for dissemination is executed separately from other consents to the processing of his/her personal data. In this case, the conditions stipulated, in particular, by Article 10.1 of the Law on Personal Data shall be observed. The requirements for the content of such consent shall be established by the authorized body for the protection of the rights of personal data subjects.",
+                    "p5_8_1": "The User provides the Operator directly with the consent to the processing of personal data authorized for dissemination.",
+                    "p5_8_2": "The Operator is obliged to publish information about the conditions of processing, prohibitions and conditions for processing of personal data authorized for dissemination by an unlimited number of persons within three working days from the moment of receiving the said consent of the User.",
+                    "p5_8_3": "The transfer (dissemination, provision, access) of personal data authorized by the subject of personal data for dissemination shall be terminated at any time at the request of the subject of personal data. This request shall include the surname, first name, patronymic (if any), contact information (telephone number, e-mail address or postal address) of the personal data subject, as well as a list of personal data whose processing is to be stopped. The personal data specified in this request may be processed only by the Operator to whom it is sent.",
+                    "p5_8_4": "Consent to the processing of personal data authorized for dissemination shall terminate upon receipt by the Operator of the request specified in clause 5.8.3 of this Policy on Personal Data Processing."
+                },
+                "p6": {
+                    "p6_header": "Principles of personal data processing",
+                    "p6_1": "Processing of personal data shall be carried out on a lawful and fair basis.",
+                    "p6_2": "The processing of personal data shall be limited to the achievement of specific, predetermined and legitimate purposes. Processing of personal data incompatible with the purposes of personal data collection is not allowed.",
+                    "p6_3": "It is not allowed to merge databases containing personal data processed for incompatible purposes.",
+                    "p6_4": "Only personal data that meet the purposes of their processing shall be processed.",
+                    "p6_5": "The content and scope of processed personal data correspond to the stated purposes of processing. The redundancy of processed personal data in relation to the stated purposes of their processing is not allowed.",
+                    "p6_6": "When processing personal data, the accuracy of personal data, their sufficiency and, where necessary, relevance in relation to the purposes of personal data processing shall be ensured. The Operator shall take the necessary measures and/or ensure that they are taken to remove or clarify incomplete or inaccurate data.",
+                    "p6_7": "Storage of personal data is carried out in a form that allows to identify the subject of personal data, not longer than required by the purposes of personal data processing, unless the period of storage of personal data is established by federal law, contract to which the subject of personal data is a party, beneficiary or guarantor. Processed personal data shall be destroyed or depersonalized upon achievement of the purposes of processing or in case of loss of necessity to achieve these purposes, unless otherwise provided for by federal law."
+                },
+                "p7": {
+                    "p7_header": "Purposes of personal data processing",
+                    "p7_1": {
+                        "p7_1_header": "The purpose of processing the User's personal data:",
+                        "t_1": "informing the User by sending e-mails;",
+                        "t_2": "conclusion, execution and termination of civil law contracts."
+                    },
+                    "p7_2": "The Operator is also entitled to send the User notifications about new products and services, special offers and various events. The User can always refuse to receive information messages by sending a letter to the Operator to the e-mail address kamchatka.business@yandex.ru with the note \"Refusal of notifications about new products and services and special offers\".",
+                    "p7_3": "The anonymized data of Users collected through Internet statistics services serve to collect information about Users' actions on the website, to improve the quality of the website and its content."
+                },
+                "p8": {
+                    "p8_header": "Legal bases of personal data processing",
+                    "p8_1": {
+                        "p8_1_header": "The legal grounds for personal data processing by the Operator are:",
+                        "t_1": "Operator's statutory (founding) documents;",
+                        "t_2": "contracts concluded between the Operator and the subject of personal data;",
+                        "t_3": "federal laws, other regulatory legal acts in the field of personal data protection;",
+                        "t_4": "users' consent to the processing of their personal data, to the processing of personal data authorized for dissemination."
+                    },
+                    "p8_2": "The Operator processes the User's personal data only if it is filled in and/or sent by the User through special forms located on the website https://e-coast.by or sent to the Operator by e-mail. By filling in the relevant forms and/or sending his/her personal data to the Operator, the User expresses his/her consent to this Policy.",
+                    "p8_3": "The Operator processes anonymized data about the User if it is allowed in the User's browser settings (cookies and JavaScript technology enabled).",
+                    "p8_4": "The subject of personal data independently decides on the provision of his/her personal data and gives his/her consent freely, of his/her own free will and in his/her own interest."
+                },
+                "p9": {
+                    "p9_header": "Conditions of personal data processing",
+                    "p9_1": "Processing of personal data is carried out with the consent of the personal data subject to the processing of his/her personal data.",
+                    "p9_2": "The processing of personal data is necessary to achieve the purposes provided for by the international treaty of the Republic of Belarus or by law, to fulfill the functions, powers and duties assigned to the operator by the legislation of the Republic of Belarus.",
+                    "p9_3": "The processing of personal data is necessary for the administration of justice, execution of a judicial act, act of another body or official subject to execution in accordance with the legislation of the Republic of Belarus on enforcement proceedings.",
+                    "p9_4": "The processing of personal data is necessary for the execution of an agreement to which the personal data subject is a party or a beneficiary or guarantor, as well as for the conclusion of an agreement at the initiative of the personal data subject or an agreement under which the personal data subject will be a beneficiary or guarantor.",
+                    "p9_5": "The processing of personal data is necessary for the exercise of the rights and legitimate interests of the operator or third parties or for the achievement of socially important purposes, provided that the rights and freedoms of the personal data subject are not violated.",
+                    "p9_6": "Processing of personal data to which access is granted by the subject of personal data or at his/her request (hereinafter - publicly available personal data) is carried out.",
+                    "p9_7": "Processing of personal data subject to publication or mandatory disclosure in accordance with federal law."
+                },
+                "p10": {
+                    "p10_header": "Procedure for collection, storage, transfer and other types of personal data processing",
+                    "text": "The security of personal data processed by the Operator is ensured by implementing legal, organizational and technical measures necessary for full compliance with the requirements of the current legislation in the field of personal data protection.",
+                    "p10_1": "The Operator shall ensure safety of personal data and take all possible measures to exclude access to personal data by unauthorized persons.",
+                    "p10_2": "The User's personal data will never, under no circumstances, be transferred to third parties, except in cases related to the execution of the current legislation or if the subject of personal data has given his/her consent to the Operator to transfer the data to a third party for the fulfillment of obligations under a civil law contract.",
+                    "p10_3": "If any inaccuracies are detected in the personal data, the User may update them independently by sending a notice to the Operator to the Operator's e-mail address kamchatka.business@yandex.ru with the remark \"Personal Data Update\".",
+                    "p10_4": "The term of personal data processing is determined by the achievement of the purposes for which the personal data were collected, unless another term is not provided for by the contract or applicable law.",
+                    "p10_4_text": "The User may withdraw his/her consent to the processing of personal data at any time by sending a notice to the Operator by e-mail to the Operator's e-mail address infokamchatka@yandex.ru marked \"Withdrawal of consent to the processing of personal data\".",
+                    "p10_5": "All information that is collected by third-party services, including payment systems, means of communication and other service providers, is stored and processed by the specified persons (Operators) in accordance with their User Agreement and Privacy Policy. The subject of personal data and/or User is obliged to familiarize himself/herself with the said documents in a timely manner. The Operator is not responsible for the actions of third parties, including the service providers specified in this clause.",
+                    "p10_6": "The prohibitions established by the personal data subject on the transfer (except for granting access), as well as on the processing or conditions of processing (except for access) of personal data authorized for dissemination shall not apply in cases of processing personal data in the state, public and other public interests defined by the legislation of the Republic of Belarus.",
+                    "p10_7": "The Operator shall ensure confidentiality of personal data when processing personal data.",
+                    "p10_8": "The Operator shall store personal data in a form that allows to identify the subject of personal data for no longer than required by the purposes of personal data processing, unless the period of personal data storage is established by federal law, contract to which the subject of personal data is a party, beneficiary or guarantor.",
+                    "p10_9": "The condition for termination of personal data processing may be the achievement of the purposes of personal data processing, expiration of the personal data subject's consent or withdrawal of consent by the personal data subject, as well as detection of unlawful processing of personal data."
+                },
+                "p11": {
+                    "p11_header": "List of actions performed by the Operator with the received personal data",
+                    "p11_1": "The Operator shall collect, record, systematize, accumulate, store, clarify (update, change), extract, use, transfer (disseminate, provide, access), depersonalize, block, delete and destroy personal data.",
+                    "p11_2": "The Operator carries out automated processing of personal data with or without receiving and/or transmitting the received information via information and telecommunication networks."
+                },
+                "p12": {
+                    "p12_header": "Cross-border transfer of personal data",
+                    "p12_1": "Before commencing the trans-border transfer of personal data, the Operator is obliged to ensure that the foreign state, to the territory of which the transfer of personal data is supposed to be carried out, provides reliable protection of the rights of personal data subjects.",
+                    "p12_2": "Trans-border transfer of personal data to the territory of foreign states, which do not meet the above requirements, may be carried out only in case of written consent of the personal data subject to the trans-border transfer of his/her personal data and/or fulfillment of the agreement to which the personal data subject is a party."
+                },
+                "p13": {
+                    "p13_header": "Confidentiality of personal data",
+                    "p13_text": "The operator and other persons who have access to personal data are obliged not to disclose to third parties and not to disseminate personal data without the consent of the subject of personal data, unless otherwise provided by federal law."
+                },
+                "p14": {
+                    "p14_header": "Final provisions",
+                    "p14_1": "The User may obtain any clarifications on matters of interest regarding the processing of his/her personal data by contacting the Operator via e-mail at kamchatka.business@yandex.ru.",
+                    "p14_2": "This document will reflect any changes to the Operator's personal data processing policy. The Policy is valid indefinitely until it is replaced by a new version.",
+                    "p14_3": "The current version of the Policy is freely available on the Internet at https://e-coast.by/privacy_policy."
+                }
+            }
+        },
+        "website_policy_page": {
+            "header": "Terms of use of the Site"
+        },
+        "cookie_policy_page": {
+            "header": "Cookie Policy",
+            "text_1": "Cookies is a text string of information that a web server sends to the browser of your device (computer, laptop, smartphone, tablet), which is then stored there. Our site uses cookies and similar technologies to ensure the best user experience by providing personalized information, remembering marketing and product preferences, and helping you get the right information.",
+            "text_2": "By using this site, you consent to the use of cookies in accordance with this notice in relation to this type of cookie. If you do not agree to our use of this type of cookie, you must adjust your browser settings accordingly or not use this site."
+        }
+    },
+
+    "components": {
+        "card_item": {
+            "loading": "Loading...",
+            "updated": "Last updated",
+            "minute": "minute ago",
+            "minutes": "minutes ago"
+        },
+        "cart": {
+            "cart": "Cart",
+            "empty": "Your cart is empty.",
+            "title": "My order",
+            "category": "Category",
+            "product": "Product",
+            "name": "Name",
+            "tax": "TAX",
+            "quantity": "Quantity",
+            "net_weight": "Net weight",
+            "price": "Price",
+            "form": "Form",
+            "total": "Total",
+            "print": "Print",
+            "warning": "Warning: Not paid orders will be automatically deleted in 2 weeks."
+        }
+    },
+
+    "footer": {
+        "rules": {
+            "one": "Policy on personal data processing",
+            "two": "Terms of use of the Site",
+            "three": "Cookie policy",
+            "four": "Consent has been obtained from personal data subjects to process personal data authorized for dissemination. Restriction on copying of personal photos and other personal data has been established"
+        },
+        "address": "Address",
+        "email": "Email",
+        "phone": "Phone"
+    },
+
+    "messages": {
+        "error": "Error!",
+        "loading": "Loading...",
+        "thank_you": "Thank You!",
+        "cart": "Product already in the cart",
+        "success": "Success!",
+        "success_msg": "We have send to you confirmation mail. We will contact you soon.",
+        "download_success_msg": "Thank you for downloading the price-list",
+        "error_msg": "Something went wrong. Try it later."
+    },
+
+    "buttons": {
+        "detailed": "More details",
+        "back": "Go back",
+        "send": "Send",
+        "add": "Add to cart",
+        "clear": "Clear",
+        "checkout": "Checkout"
+    }
+}

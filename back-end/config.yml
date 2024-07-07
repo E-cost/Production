@@ -1,0 +1,27 @@
+is_debug: true
+service:
+  type: port
+  bind_ip: 0.0.0.0
+  port: 30001
+  metrics_port: 9090
+  domain:
+redis:
+  host: redis
+  port: 6379
+  password: harmna-qi04ed-l19u23
+  db: 0
+postgresql:
+  host: postgresql
+  port: "5432"
+  database: postgres
+  username: postgres
+  password: admin123
+email:
+  protocol: smtp
+  port: 587
+  address: yandex.ru
+  domain: e-cost.by
+  sender: kamchatka.business@yandex.ru
+  password: ixcxnutazpskptbf
+yandex:
+  bucket: ecost-prod

@@ -1,0 +1,6 @@
+192.168.65.1 - - [01/Jul/2024:11:26:54 +0000] "GET / HTTP/1.1" 502 559 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" "-"
+192.168.65.1 - - [01/Jul/2024:11:26:54 +0000] "GET /favicon.ico HTTP/1.1" 502 559 "http://localhost:8181/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" "-"
+192.168.65.1 - - [01/Jul/2024:11:30:46 +0000] "GET / HTTP/1.1" 502 157 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" "-"
+192.168.65.1 - - [01/Jul/2024:11:30:46 +0000] "GET /favicon.ico HTTP/1.1" 502 157 "http://localhost:8181/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" "-"
+192.168.65.1 - - [01/Jul/2024:12:42:04 +0000] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" "-"
+192.168.65.1 - - [01/Jul/2024:12:42:04 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://127.0.0.1:8181/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" "-"
