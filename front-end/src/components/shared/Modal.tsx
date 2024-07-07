@@ -1,9 +1,9 @@
 import React, { useEffect, useState, useRef } from 'react';
 
-import { useCart } from '../providers/CartProvider';
-
 import swal from 'sweetalert';
-import ReCAPTCHA from 'react-google-recaptcha';
+import { useCart } from '../providers/CartProvider';
+import { SmartCaptcha } from '@yandex/smart-captcha';
+
 import styles from './styles/Modal/Modal.module.scss'
 import './styles/Modal/Modal.scss'
 
@@ -52,13 +52,14 @@ const SharedModal: React.FC<ModalProps> = ({ id, title, cartItems, quantities, t
         name: false,
         surname: false,
     });
+    const [captchaKey, setCaptchaKey] = useState(1);
     const maxLengths = {
         name: 16,
         surname: 25,
     }
     const { clearCart } = useCart();
     const modalRef = useRef<HTMLDivElement>(null);
-    const siteKey = process.env.REACT_APP_CAPTCHA_KEY as string
+    const key = process.env.REACT_APP_CAPTCHA_KEY as string
 
     useEffect(() => {
         setButtonText(t("buttons.send"))
@@ -151,6 +152,8 @@ const SharedModal: React.FC<ModalProps> = ({ id, title, cartItems, quantities, t
                 });
                 setNotEmpty({});
                 setFocusedField(null);
+                setIsRecaptchaVerified(false);
+                setCaptchaKey(prevKey => prevKey + 1);
 
                 setButtonText(t("messages.thank_you"));
                 setTimeout(() => {
@@ -353,17 +356,9 @@ const SharedModal: React.FC<ModalProps> = ({ id, title, cartItems, quantities, t
                                     <input type="submit" className={styles.input_submit} value={isLoading ? t("messages.loading") : buttonText} disabled={isLoading} />
                                 </div>
                             </form>
-                            <ReCAPTCHA
-                                sitekey={siteKey}
-                                onChange={(val) => setIsRecaptchaVerified(!!val)}
-                                style={{
-                                    marginTop: '20px',
-                                    transform: 'scale(0.79)',
-                                    WebkitTransform: 'scale(0.79)',
-                                    transformOrigin: '0 0',
-                                    WebkitTransformOrigin: '0 0',
-                                }}
-                            />
+                            <div className={styles.yandex_captcha}>
+                                <SmartCaptcha key={captchaKey} sitekey={key} onSuccess={() => setIsRecaptchaVerified(true)} />
+                            </div>
                             <div className={`${styles.condition} ${styles.text}`}>
                                 <p>{t("pages.contacts_page.privacy")} <a className={styles.link} href="/privacy_policy" target="_blank">{t("pages.contacts_page.policy")}</a>.</p>
                             </div>
