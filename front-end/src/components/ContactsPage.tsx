@@ -2,12 +2,13 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
-
 import swal from 'sweetalert';
-import ReCAPTCHA from 'react-google-recaptcha';
+import { SmartCaptcha } from '@yandex/smart-captcha';
+
 import image from '../images/background/bears.jpg'
 import styles from './styles/Contacts/Contacts.module.scss'
 import "./styles/Bootstrap/button.scss"
+
 
 interface FormValues {
     name: string;
@@ -16,7 +17,6 @@ interface FormValues {
     contact_phone: string;
     message: string;
 }
-
 
 
 export default function ContactsPage() {
@@ -41,12 +41,13 @@ export default function ContactsPage() {
         surname: false,
         message: false,
     });
+    const [captchaKey, setCaptchaKey] = useState(1);
     const maxLengths = {
         name: 16,
         surname: 25,
         message: 180,
     }
-    const siteKey = process.env.REACT_APP_CAPTCHA_KEY as string
+    const key = process.env.REACT_APP_CAPTCHA_KEY as string
 
     useEffect(() => {
         setButtonText(t("buttons.send"))
@@ -101,7 +102,7 @@ export default function ContactsPage() {
                 text: t("pages.contacts_page.errors.error_message.text_three"),
                 icon: "error",
                 buttons: [""],
-                timer: 3000
+                timer: 2500
             });
             return;
         }
@@ -128,7 +129,7 @@ export default function ContactsPage() {
                     text: t("messages.success_msg"),
                     icon: "success",
                     buttons: [""],
-                    timer: 4000
+                    timer: 2500
                 });
 
                 setValues({
@@ -140,19 +141,22 @@ export default function ContactsPage() {
                 });
                 setNotEmpty({});
                 setFocusedField(null);
+                setIsRecaptchaVerified(false);
+                setCaptchaKey(prevKey => prevKey + 1);
 
                 setButtonText(t("messages.thank_you"));
                 setTimeout(() => {
                     setButtonText(t("buttons.send"));
                     setIsLoading(false);
                 }, 3000);
+
             } else if (response.status === 400 || 409) {
                 swal({
                     title: t("pages.contacts_page.errors.error"),
                     text: t("pages.contacts_page.errors.error_message.text_one"),
                     icon: "error",
                     buttons: [""],
-                    timer: 3000
+                    timer: 2500
                 });
                 setIsLoading(false);
             } else {
@@ -295,17 +299,9 @@ export default function ContactsPage() {
                                     <input type="submit" className={styles.input_submit} value={isLoading ? t("messages.loading") : buttonText} disabled={isLoading} />
                                 </div>
                             </form>
-                                <ReCAPTCHA
-                                    sitekey={siteKey}
-                                    onChange={(val) => setIsRecaptchaVerified(!!val)}
-                                    style={{
-                                        marginTop: '20px',
-                                        transform: 'scale(0.79)',
-                                        WebkitTransform: 'scale(0.79)',
-                                        transformOrigin: '0 0',
-                                        WebkitTransformOrigin: '0 0',
-                                    }}
-                                />
+                            <div className={styles.yandex_captcha}>
+                                <SmartCaptcha key={captchaKey} sitekey={key} onSuccess={() => setIsRecaptchaVerified(true)} />
+                            </div>
                             <div className={`${styles.condition} ${styles.text}`}>
                                 <p>{t("pages.contacts_page.privacy")} <Link className={styles.link} to="/privacy_policy">{t("pages.contacts_page.policy")}</Link>.</p>
                             </div>

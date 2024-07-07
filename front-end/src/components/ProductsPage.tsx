@@ -199,7 +199,7 @@ export default function ProductsPage() {
         };
     }, []);
 
-    const handleDownload = async () => {
+    const handleDownload = useCallback(async () => {
         try {
             const response = await fetch(`${process.env.REACT_APP_API_HOST}:${process.env.REACT_APP_API_PORT}/price-list/download`);
             if (response.ok) {
@@ -237,7 +237,7 @@ export default function ProductsPage() {
             }, 1000)
             console.error('Download error:', error);
         }
-    };
+    }, [t]);
     
 
     const sidebarContent = useMemo(() => (
@@ -299,7 +299,7 @@ export default function ProductsPage() {
                 </div>
             </div>
         </aside>
-    ), [isSidebarOpen, isSubmenuOpen, t, toggleSubmenu, toggleSidebar])
+    ), [isSidebarOpen, handleDownload, isSubmenuOpen, t, toggleSubmenu, toggleSidebar])
 
     if (loading) {
         return <Loader />
