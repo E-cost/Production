@@ -590,7 +590,10 @@
         "error": "Error!",
         "loading": "Loading...",
         "thank_you": "Thank You!",
-        "cart": "Product already in the cart",
+        "cart": {
+            "title": "Attention!",
+            "text": "This produst is already in cart."
+        },
         "success": "Success!",
         "success_msg": "We have send to you confirmation mail. We will contact you soon.",
         "download_success_msg": "Thank you for downloading the price-list",

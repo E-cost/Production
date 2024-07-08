@@ -1,4 +1,7 @@
 import { ReactNode, createContext, useContext, useEffect, useState } from 'react';
+import { useTranslation } from 'react-i18next';
+
+import swal from 'sweetalert';
 
 interface Product {
     id: string;
@@ -35,6 +38,7 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
         return storedCartItems ? JSON.parse(storedCartItems) : [];
     });
     const [totalUniqueItems, setTotalUniqueItems] = useState<number>(0);
+    const [t] = useTranslation("global")
 
     useEffect(() => {
         const uniqueItems = new Set<string>();
@@ -47,7 +51,13 @@ export const CartProvider = ({ children }: { children: ReactNode }) => {
     const addToCart = (item: Product) => {
         const existingItem = cartItems.find(cartItem => cartItem.id === item.id);
         if (existingItem) {
-            alert("Данный продукт уже есть в корзине")
+            swal({
+                title: t("messages.cart.title"),
+                text: t("messages.cart.text"),
+                icon: "info",
+                buttons: [""],
+                timer: 2500
+            })
             return;
         }
 
